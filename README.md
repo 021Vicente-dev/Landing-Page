@@ -1,17 +1,40 @@
------------------------
-# My landing-page #
------------------------
+# Landing Page
 
-## 👇Minha descrição👇 ##
+Este é um projeto desenvolvido com Html e Css que tem em base exibir uma tela decompras e vendas.
 
-![DollPicture-e587a139-1b08-4b00-ba69-0f8e120ba54c-removebg-preview](https://github.com/pigmeu200/Portifolio/assets/143575527/e5462c33-103d-4dbf-b551-64df767efae2)
+Confira a aplicação em funcionamento:
 
-👨‍💻 Meu nome é Ryan conhecido como Xyear tenho 15 anos estou disponivel para freelancer e disposto a pegar mais experiência na área 
+**URL da aplicação:** https://021vicente-dev.github.io/Landing-Page/
 
-## ***contatos*** ##
+# Imagem da aplicação:
 
-**📱 Celular: ***+55 (21) 96984-4844 <br>***
-💻 Discord: ***https://discord.gg/wH6f928Tga <br>***
-📩 E-mail:** ***xyeardev@gmail.com <br>***
+![image](https://github.com/user-attachments/assets/0ff74c9c-10fc-44a2-a5d7-d6cc7b78e1a5)
 
 
+
+# Uso
+Após iniciar o projeto, você poderá:
+
+Ver um site de vendas de compras.
+
+# Tecnologias
+
+***Este projeto foi construído utilizando as seguintes tecnologias:***
+
+**HTML**
+
+**CSS**
+
+***Licença***
+
+© Todos os direitos reservados há Vicente.dev.
+
+
+# Contato
+Se você tiver dúvidas ou sugestões, entre em contato:
+
+Ryan Vicente - 021vicentedev@gmail.com
+
+GitHub: https://github.com/021Vicente-dev
+
+LinkedIn: https://www.linkedin.com/in/ryan-vicente-35b4a6326/
