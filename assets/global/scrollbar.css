@@ -2,6 +2,7 @@
 
 ::-webkit-scrollbar {
     background-color: var(--color-black); /*  var(--color-red) foi uma variavel que criei pra acelerar o percurso*/
+    
 }
 
 ::-webkit-scrollbar-thumb {

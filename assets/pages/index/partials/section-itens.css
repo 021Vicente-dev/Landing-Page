@@ -3,7 +3,7 @@ section.itens {
     align-items: center;
     justify-content: center;
     padding: 100px 80px;
-    background-image: url(../../../../files/Capa\ para\ facebook\ aula\ de\ grafite\ rosa\ e\ verde\ neon\ ousado.png);
+    background-image: url(../../../../files/baner.png);
     background-position: 4px;
     border-bottom: 1px solid #ffffff2a;
 
@@ -18,7 +18,7 @@ section.itens .item {
     padding: 0 30px;
 }
 section.itens .item img {
-    width: 100%;
+    width: 30%;
     max-width: 200px;
     border-radius: 50%;
 }
